@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, my nickname alhashmicode</h1>
 <h3 align="center">full-stack web developer</h3>
 
-<a href="https://instagram.com/alhashmicode" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/alhashmicode-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alhashmicode&label=Profile%20views&color=0e75b6&style=flat" alt="alhashmicode" /> </p>
+<p align="center">
+  <a href="https://github.com/alhashmicode?tab=followers">
+    <img src="https://img.shields.io/github/followers/alhashmicode?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://instagram.com/alhashmicode" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/alhashmicode-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+ </a>
+ <a><img width="150" hight="90" src="https://komarev.com/ghpvc/?username=alhashmicode&label=Profile%20views&color=0e75b6&style=flat" alt="alhashmicode" /> </p></a>
+</p>
+
+
+
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alhashmicode" alt="alhashmicode" /></a> </p>
 
