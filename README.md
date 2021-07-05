@@ -27,7 +27,7 @@
 
 - 💬 Ask me about full-stack developement career **reactjs, javascript, html, css, nodejs, express,mongodb,sql, more...**
 
-- 📫 instagram **https://www.instagram.com/alhashmicode/**
+- 📫 email -> alhashmis246@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
