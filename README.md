@@ -15,13 +15,13 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alhashmicode" alt="alhashmicode" /></a> </p>
 
-- 🔭 I’m currently working on postman clone [postman clone](none)
+- 🔭 I’m currently working on postman clone [postman clone](https://github.com/alhashmicode/postman-clone)
 
 - 🌱 I’m currently learning styling **bootstrap and react bootstrap**
 
-- 👯 I’m looking to collaborate on mern-stack [none](none)
+- 👯 I’m looking to collaborate on mern-stack
 
-- 🤝 I’m looking for help with developer [mern-stack](none)
+- 🤝 I’m looking for help with developer. 
 
 - 📝 I regularly write articles on instagram [https://www.instagram.com/alhashmicode/](https://www.instagram.com/alhashmicode/)
 
