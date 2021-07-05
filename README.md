@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with developer. 
 
-- 📝 I regularly write articles on instagram [https://www.instagram.com/alhashmicode/](https://www.instagram.com/alhashmicode/)
+- 📝 I regularly write articles on instagram [@alhashmicode](https://www.instagram.com/alhashmicode/)
 
 - 💬 Ask me about full-stack developement career **reactjs, javascript, html, css, nodejs, express,mongodb,sql, more...**
 
