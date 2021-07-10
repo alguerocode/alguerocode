@@ -7,7 +7,7 @@
   </a>
   <a href="https://instagram.com/alhashmicode" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/alhashmicode-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
  </a>
- <a><img width="150" hight="90" src="https://komarev.com/ghpvc/?username=alhashmicode&label=Profile%20views&color=0e75b6&style=flat" alt="alhashmicode" /> </p></a>
+
 </p>
 
 
