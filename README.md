@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="https://github.com/alhashmicode?tab=followers">
-    <img src="https://img.shields.io/github/followers/alhashmicode?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/alguerocode?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://instagram.com/alhashmicode" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/alhashmicode-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://instagram.com/alhashmicode" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/alguerocode-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
  </a>
 
 </p>
