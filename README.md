@@ -15,15 +15,15 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alguerocode" alt="alguerocode" /></a> </p>
 
-- 🔭 I’m currently working on postman clone [postman clone](https://github.com/alguerocode/postman-clone)
+- 🔭 I’m currently working on my personal website
 
-- 🌱 I’m currently learning styling **bootstrap and react bootstrap**
+- 🌱 I’m currently focusing in development profile and do real world projects
 
-- 👯 I’m looking to collaborate on mern-stack
+- 👯 I’m looking to collaborate on any web development tochnologies
 
 - 🤝 I’m looking for help with developer. 
 
-- 📝 I regularly write articles on instagram [@alhashmicode](https://www.instagram.com/alhashmicode/)
+- 📝 I regularly write articles (but now i don't) on instagram [@alhashmis246](https://www.instagram.com/alhashmis246/)
 
 - 💬 Ask me about full-stack developement career **reactjs, javascript, html, css, nodejs, express,mongodb,sql, more...**
 
