@@ -5,7 +5,7 @@
   <a href="https://github.com/alguerocode?tab=followers">
     <img src="https://img.shields.io/github/followers/alguerocode?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://instagram.com/alhashmicode" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/alguerocode-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://instagram.com/alhashmis246" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/alguerocode-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
  </a>
 
 </p>
@@ -45,5 +45,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alguerocode&show_icons=true&locale=en" alt="alguerocode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alguerocode&" alt="alguerocode" /></p>
-
 
