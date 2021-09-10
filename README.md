@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name alguero</h1>
-<h3 align="center">full-stack web developer</h3>
+<h3 align="center">frontend and backend web developer</h3>
 
 <p align="center">
   <a href="https://github.com/alguerocode?tab=followers">
