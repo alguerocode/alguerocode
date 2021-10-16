@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, my name alguero</h1>
 <h3 align="center">frontend and backend web developer</h3>
-- 🔭 I’m currently working on my  [volder npm package](https://github.com/devSupporters/volder)
+
+🔭 I’m currently working on my [volder npm package](https://github.com/devSupporters/volder)
 
 
 
@@ -20,6 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alguerocode&show_icons=true&locale=en&layout=compact" alt="alguerocode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alguerocode&show_icons=true&locale=en" alt="alguerocode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alguerocode&" alt="alguerocode" /></p>
  
