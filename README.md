@@ -1,33 +1,10 @@
 <h1 align="center">Hi 👋, my name alguero</h1>
 <h3 align="center">frontend and backend web developer</h3>
-
-<p align="center">
-  <a href="https://github.com/alguerocode?tab=followers">
-    <img src="https://img.shields.io/github/followers/alguerocode?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="https://instagram.com/alhashmis246" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/alguerocode-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
- </a>
-
-</p>
+- 🔭 I’m currently working on my  [volder npm package](https://github.com/devSupporters/volder)
 
 
 
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alguerocode" alt="alguerocode" /></a> </p>
-
-- 🔭 I’m currently working on my [volder npm package](https://github.com/devSupporters/volder)
-
-- 🌱 I’m currently focusing in development profile and do real world projects
-
-- 👯 I’m looking to collaborate on any web development tochnologies
-
-- 🤝 I’m looking for help with developer. 
-
-- 📝 I regularly write articles (but now i don't) on instagram [@alhashmis246](https://www.instagram.com/alhashmis246/)
-
-- 💬 Ask me about full-stack developement career **reactjs, javascript, html, css, nodejs, express,mongodb,sql, more...**
-
-- 📫 email -> alhashmis246@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
