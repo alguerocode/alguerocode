@@ -41,17 +41,17 @@
 </h3>
 <h2 align="center">Other Projects</h2>
 <h3 align="center">
- <a href="https://github.com/devSupporters/volder">
+ <a href="https://github.com/alguerocode/simple-react-ssr">
  <p align="center">🧪 react server side rendering</p>
  </a>
-  <a href="https://alguero.vercel.app">
+  <a href="https://github.com/alguerocode/quizApp">
  <p align="center">💼 quiz app (generate and test quiz)</p>
  </a>
-  <a href="https://github.com/alguerocode/data-structure-and-algorithms">
+  <a href="https://github.com/alguerocode/postman-clone">
  <p align="center">🧠 postman clone</p>
  </a>
   </a>
-  <a href="https://github.com/alguerocode/data-structure-and-algorithms">
+  <a href="https://github.com/alguerocode/memorize-MERN">
  <p align="center">🧠 memorize MERN stack app</p>
  </a>
   </a>
