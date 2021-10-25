@@ -39,7 +39,7 @@
  <p align="center">🧠 data structure and algorithms</p>
  </a>
 </h3>
-
+<h2 align="center">Other Projects</h2>
 
  <h3 align="center">Connect me in:</h2>
 <p align="center">
