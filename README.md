@@ -39,24 +39,26 @@
  <p align="center">🧠 data structure and algorithms</p>
  </a>
 </h3>
+
+
 <h2 align="center">Other Projects</h2>
 <h3 align="center">
  <a href="https://github.com/alguerocode/simple-react-ssr">
- <p align="center">🧪 react server side rendering</p>
+ <p align="center">🖥️ react server side rendering</p>
  </a>
   <a href="https://github.com/alguerocode/quizApp">
- <p align="center">💼 quiz app (generate and test quiz)</p>
+ <p align="center">📋 quiz app (generate and test quiz)</p>
  </a>
   <a href="https://github.com/alguerocode/postman-clone">
- <p align="center">🧠 postman clone</p>
+ <p align="center">🖨️ postman clone</p>
  </a>
   </a>
   <a href="https://github.com/alguerocode/memorize-MERN">
- <p align="center">🧠 memorize MERN stack app</p>
+ <p align="center">🤔 memorize MERN stack app</p>
  </a>
   </a>
-  <a href="https://github.com/alguerocode/data-structure-and-algorithms">
- <p align="center">🧠 react simple projects</p>
+  <a href="https://github.com/alguerocode/reactjs-beginner-projects">
+ <p align="center">🎊 react simple projects</p>
  </a>
 </h3>
  <h2 align="center">Connect with me</h2>
