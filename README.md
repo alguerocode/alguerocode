@@ -40,8 +40,26 @@
  </a>
 </h3>
 <h2 align="center">Other Projects</h2>
-
- <h2 align="center">Connect with</h2>
+<h3 align="center">
+ <a href="https://github.com/devSupporters/volder">
+ <p align="center">🧪 react server side rendering</p>
+ </a>
+  <a href="https://alguero.vercel.app">
+ <p align="center">💼 quiz app (generate and test quiz)</p>
+ </a>
+  <a href="https://github.com/alguerocode/data-structure-and-algorithms">
+ <p align="center">🧠 postman clone</p>
+ </a>
+  </a>
+  <a href="https://github.com/alguerocode/data-structure-and-algorithms">
+ <p align="center">🧠 memorize MERN stack app</p>
+ </a>
+  </a>
+  <a href="https://github.com/alguerocode/data-structure-and-algorithms">
+ <p align="center">🧠 react simple projects</p>
+ </a>
+</h3>
+ <h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://stackoverflow.com/users/15742951" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://fb.com/salah.alhashmi.52" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="salah.alhashmi.52"/></a>
