@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, my name alguero</h1>
-<h3 align="center">frontend and backend web developer</h3>
+<h1 align="center">Hi 👋, my name alguerocode</h1>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 🔭 I’m currently working on my [volder npm package](https://github.com/devSupporters/volder)
 
