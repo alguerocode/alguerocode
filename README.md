@@ -27,11 +27,21 @@
  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
+<h2 align="center">My Best Projects</h2>
+<h3 align="center">
+ <a href="https://github.com/devSupporters/volder">
+ <p align="center">🧪 volder npm package</p>
+ </a>
+  <a href="https://alguero.vercel.app">
+ <p align="center">💼 portfolio website</p>
+ </a>
+  <a href="https://github.com/alguerocode/data-structure-and-algorithms">
+ <p align="center">🧠 data structure and algorithms</p>
+ </a>
+</h3>
 
 
-
-
- <h3 align="center">Connect with me:</h3>
+ <h3 align="center">Connect me in:</h2>
 <p align="center">
 <a href="https://stackoverflow.com/users/15742951" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://fb.com/salah.alhashmi.52" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="salah.alhashmi.52"/></a>
