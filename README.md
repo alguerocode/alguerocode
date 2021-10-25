@@ -19,6 +19,7 @@
  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+ <img src=""/>
 </p>
 
 
@@ -26,8 +27,8 @@
 
  <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://stackoverflow.com/users/15742951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15742951" height="30" width="40" /></a>
-<a href="https://fb.com/salah.alhashmi.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salah.alhashmi.52" height="30" width="40" /></a>
-<a href="https://instagram.com/alhashmicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alhashmicode" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salah959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salah959" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15742951" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://fb.com/salah.alhashmi.52" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="salah.alhashmi.52"/></a>
+<a href="https://instagram.com/alhashmis246" target="blank"><img align="center" src="https://img.shields.io/badge/alhashmis246-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="alhashmicode" /></a>
+<a href="https://www.leetcode.com/salah959" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 </p>
