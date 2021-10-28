@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name alguerocode Full-Stack Web Developer</h1>
+<h1 align="center">Hi 👋, my name salah Full-Stack Web Developer and my nickname is alguerocode</h1>
 <h3 align="center"> languages & tools </h3>
 
 <p align="center">
