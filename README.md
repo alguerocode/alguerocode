@@ -72,11 +72,11 @@
 <details> 
   <summary>GitHub Profile Stats <img src="https://user-images.githubusercontent.com/75932477/153189913-8856a4f9-7d7a-4c64-91ad-c7ebdef77c2b.gif" width="30"/></summary>
 <img alt="alguerocode trophy" src="https://github-profile-trophy.vercel.app/?username=alguerocode&theme=dracula&column=7" />
-	
+<p align="center>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alguerocode's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alguerocode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alguerocode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguerocode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
-
+</p>
 <a href="https://github.com/alguerocode/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=alguerocode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 <details> 
