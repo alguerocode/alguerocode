@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲 andI am interested in open source projects and building web apps.
 
-
-
+<details> 
+<summary>Languages and Tools</summary>
 <p>
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -29,11 +29,13 @@ I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲 andI am
  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
-<h3>Open source projects</h3>
+</details>
+<details>
+<summary>💡 Open source projects</summary>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>💡 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -64,9 +66,20 @@ I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲 andI am
     </tr>
   </tbody>
 </table>
+</details>
+<details> 
+  <summary>📘 GitHub Profile Stats</summary>
+<img alt="alguerocode trophy" src="https://github-profile-trophy.vercel.app/?username=alguerocode&theme=dracula" />
+	
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alguerocode's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alguerocode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alguerocode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguerocode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
 
-
-<h3>Connect with me</h3>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/alguerocode/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=alguerocode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
+<details> 
+<summary>💬 Connect with me</summary>
 <p>
 <a href="https://stackoverflow.com/users/15742951" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://fb.com/salah.alhashmi.52" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="salah.alhashmi.52"/></a>
@@ -74,3 +87,4 @@ I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲 andI am
 <a href="https://www.leetcode.com/salah959" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
  <a href="https://dev.to/alguercode" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
+</details> 
