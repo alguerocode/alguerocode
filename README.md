@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="30"/></h1>
-<h3>I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲 andI am interested in open source projects and building web apps.</h3>
+<h4>I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲 andI am interested in open source projects and building web apps.</h4>
 
-<h4>
+<h3>
 <details> 
 <summary>Languages and Tools  <img src="https://user-images.githubusercontent.com/75932477/153186887-e749deb6-4bf0-4155-8581-5ebbfdf9d255.gif" width="30"/> </summary>
 <p>
@@ -89,4 +89,4 @@
  <a href="https://dev.to/alguercode" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
 </details> 
-</h4>
+</h3>
