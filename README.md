@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, my name salah Full-Stack Web Developer and my nickname is alguerocode</h1>
-<h3 align="center"> languages & tools </h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲 andI am interested in open source projects and building web apps.
 
-<p align="center">
+
+
+<p>
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,42 +29,45 @@
  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
-<h2 align="center">My Best Projects</h2>
-<h3 align="center">
- <a href="https://github.com/devSupporters/volder">
- <p align="center">🧪 volder npm package</p>
- </a>
-  <a href="https://alguero.vercel.app">
- <p align="center">💼 portfolio website</p>
- </a>
-  <a href="https://github.com/alguerocode/data-structure-and-algorithms">
- <p align="center">🧠 data structure and algorithms</p>
- </a>
-</h3>
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/devSupporters/volder"><b>Volder package</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/devSupporters/volder?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/devSupporters/volder?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/devSupporters/volder?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/devSupporters/volder?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/devSupporters/masterJS"><b>MasterJS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/devSupporters/masterJS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/devSupporters/masterJS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/devSupporters/masterJS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/devSupporters/masterJS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/devSupporters/dev-components"><b>Dev Components</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/devSupporters/dev-components?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/devSupporters/dev-components?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/devSupporters/dev-components?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/devSupporters/dev-components?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 
-<h2 align="center">Other Projects</h2>
-<h3 align="center">
- <a href="https://github.com/alguerocode/simple-react-ssr">
- <p align="center">🖥️ react server side rendering</p>
- </a>
-  <a href="https://github.com/alguerocode/quizApp">
- <p align="center">📋 quiz app (generate and test quiz)</p>
- </a>
-  <a href="https://github.com/alguerocode/postman-clone">
- <p align="center">🖨️ postman clone</p>
- </a>
-  </a>
-  <a href="https://github.com/alguerocode/memorize-MERN">
- <p align="center">🤔 memorize MERN stack app</p>
- </a>
-  </a>
-  <a href="https://github.com/alguerocode/reactjs-beginner-projects">
- <p align="center">🎊 react simple projects</p>
- </a>
-</h3>
- <h2 align="center">Connect with me</h2>
-<p align="center">
+<h3>Connect with me</h3>
+<p>
 <a href="https://stackoverflow.com/users/15742951" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://fb.com/salah.alhashmi.52" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="salah.alhashmi.52"/></a>
 <a href="https://instagram.com/alhashmis246" target="blank"><img align="center" src="https://img.shields.io/badge/alhashmis246-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="alhashmicode" /></a>
