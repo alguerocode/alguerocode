@@ -88,3 +88,6 @@ I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲 andI am
  <a href="https://dev.to/alguercode" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
 </details> 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alhashmis28)
+											     
