@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="30"/></h1>
-I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲 andI am interested in open source projects and building web apps.
+I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲, I am interested in open source projects and building web apps.
 
 <details>
 <summary>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨&nbsp;&nbsp; Languages and Tools  <img src="https://user-images.githubusercontent.com/75932477/153186887-e749deb6-4bf0-4155-8581-5ebbfdf9d255.gif" width="30"/>&nbsp;🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</summary>
