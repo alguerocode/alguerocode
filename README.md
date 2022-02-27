@@ -86,7 +86,10 @@ I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲 andI am
 <a href="https://instagram.com/alhashmis246" target="blank"><img align="center" src="https://img.shields.io/badge/alhashmis246-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="alhashmicode" /></a>
 <a href="https://www.leetcode.com/salah959" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
  <a href="https://dev.to/alguercode" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-</p>
+<a href="https://discord.gg/cfyQkKcd">
+  <img height="28" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="DevSupporters discord server"/>
+</a>
+</p>										     
 </details> 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alhashmis28)
