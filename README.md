@@ -95,12 +95,10 @@ I am alguerocode self-taught Full-Stack Web Developer from Oman 🇴🇲, I am i
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alhashmis28)
 <a href="https://www.producthunt.com/posts/volder?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-volder">
 <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=332017&theme=light" alt="volder - schema builder and data validation for javascript | Product Hunt" width="180" height="37"/>
-</a>
-											     
+</a>											     
 <a href="https://www.producthunt.com/posts/volder?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-volder">
 <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=333967&theme=light" alt="volder - schema builder and data validation for javascript | Product Hunt" width="170" height="40"/>
-  </a>
-											     											     
+  </a>		     
 <a href="https://alguerocode.hashnode.dev/">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
 		alt="alguerocode hashnode blogging website" width="150"/>
